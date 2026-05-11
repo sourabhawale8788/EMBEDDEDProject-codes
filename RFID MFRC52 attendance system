@@ -1,0 +1,5 @@
+The code of RFID MFRC522 , 
+An RFID attendance system for automates tracking by using radio waves to detect unique ID tags (cards/fobs) via a reader,
+providing real-time, accurate, and contactless data logging . 
+the system instantly records the timestamp in a database, ensuring high accuracy, enhanced security, and real-time monitoring.
+This concept i Specially used in my Final year project .  
