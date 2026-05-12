@@ -1,0 +1,3 @@
+Bluetooth Controlled Obstacle Avoiding Robot Car 
+Move using Bluetooth mobile app commands and also Detect automatically obstacles using ultrasonic sensors
+Control motors using L298N driver , Arduino , 3 ultrasonic sensors HC-SR04, and Bluetooth module HC-05 . 
