@@ -1,6 +1,3 @@
-// NAME : SOURABH SUNIL AWALE
-// PRN  : 22UET005
-
 #include <LPC214X.H>
 int adc_get_val(void);
 int main ()
