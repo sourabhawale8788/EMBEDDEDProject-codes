@@ -1,0 +1,8 @@
+ADC-Based LED Control using LPC2148
+ADC reads analog voltage from input pin. Converted digital value is stored in ADC register. 
+Program compares ADC value with threshold (512). 
+// threshold value simply means set point, or boundary when it reached triggers a specific state
+LED glows if value exceeds threshold.
+Converts analog signal into digital value.
+Turns ON LED when ADC value is greater than 512.
+Turns OFF LED when ADC value is less than or equal to 512.
