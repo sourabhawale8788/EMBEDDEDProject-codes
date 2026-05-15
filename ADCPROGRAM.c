@@ -3,8 +3,9 @@ int adc_get_val(void);
 int main ()
 {
 	int a;
-	PINSEL0=0x30000;
-	IODIR0=IODIR0 | 0x10;
+	PINSEL0=0x30000; 
+	// here i Set P0.4 (port 0 in pin number 4 as output for LED
+	IODIR0=IODIR0 | 0x10; 
 	AD1CR=0x200104;
 	while(1)
 	{
