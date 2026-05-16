@@ -1,0 +1,5 @@
+The Project ==> 4x4 Matrix Keypad Interfacing with 16x2 LCD using LPC2148 
+the project aim is the system detects which key is pressed on a 4x4 keypad and displays that key on a 16x2 LCD display.
+It works like a mini keypad-based input system.
+This project interfaces a 4x4 matrix keypad and a 16x2 LCD with the LPC2148 ARM7 microcontroller. 
+The system scans keypad inputs and displays the pressed key on the LCD in real time using GPIO-based matrix scanning techniques.
