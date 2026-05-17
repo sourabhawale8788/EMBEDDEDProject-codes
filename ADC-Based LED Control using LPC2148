@@ -1,4 +1,4 @@
-ADC-Based LED Control using LPC2148
+ADC-Based LED Control using LPC2148 ARM7 
 ADC reads analog voltage from input pin. Converted digital value is stored in ADC register. 
 Program compares ADC value with threshold (512). 
 // threshold value simply means set point, or boundary when it reached triggers a specific state
