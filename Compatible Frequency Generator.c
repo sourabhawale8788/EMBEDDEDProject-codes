@@ -1,11 +1,5 @@
 /* 
-	NAME : AWALE SOURABH SUNIL 				PRN : 22UET005
-	NAME : BIRADAR PURVA BALASAHEB		PRN : 22UET009
-
-	Lab Activity: Mini Project 
-	Titles for Mini Project :
-					Implement variable frequency generator using timer in LPC2148  
-					
+		Implement Variable Frequency Generator using timer in LPC2148 ARM7  					
 */
 
 #include <LPC214x.h>
