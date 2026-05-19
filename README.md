@@ -6,3 +6,4 @@ The Lists of Project and Embedded C code
 2> Bluetooth Controlled Obstacle Avoiding Robot Car
 3> ADC-Based LED Control using LPC2148  ARM7  ( Analog to Digital Converter)
 4> 4x4 Matrix Keypad Interfacing with 16x2 LCD using LPC2148 ARM7 
+5> Implement Variable Frequency Generator using timer in LPC2148 ARM7  
