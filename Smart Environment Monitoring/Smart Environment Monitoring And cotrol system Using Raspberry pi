@@ -1,1 +1,35 @@
+This project is an IoT-based system that measures temperature, humidity and light intensity in real time
+and sends the readings to the Firebase Realtime Database every 10 seconds. A responsive web
+dashboard shows the live values, a live graph, the history of readings and the device status. From the
+same dashboard the user can switch an LED on or off remotely and set a temperature threshold. When
+the temperature goes above the threshold, a buzzer sounds and an alert is shown on the dashboard.
+As agreed with the company, a Raspberry Pi Pico W is used as the microcontroller in place of the
 
+Objectives
+•Collect real-time temperature, humidity and light-intensity readings with a DHT11 and a BH1750
+sensor.
+•Connect the microcontroller to Wi-Fi and upload readings to Firebase every 10 seconds with
+timestamps.
+•Keep a history of all sensor readings in the cloud.
+•Build a responsive dashboard with live graphs, device online/offline status and an LED ON/OFF
+button.
+•Raise an alert (buzzer and dashboard message) when the temperature exceeds a user-defined
+threshold.
+2. Project Impact
+The system gives a low-cost way to watch the conditions of a room from anywhere with an internet
+connection, and to react quickly when conditions go outside a safe limit.
+•Remote monitoring: readings can be seen on any phone or computer browser, without being
+near the device.
+•Early warning: the buzzer and the dashboard alert warn the user when the temperature crosses
+the threshold they set.
+•Data for decisions: stored history shows trends in temperature, humidity and light, which helps
+in comfort control, storage conditions and planning.
+•Energy awareness: light-level readings can support decisions about switching lights on or off.
+•Low cost and scalable: the parts are inexpensive, and more sensors or devices can be added to
+the same database.
+•Practical learning: the project covers embedded programming, cloud databases and web
+development in one system.
+Smart Environment Monitoring & Control System | Page 1
+Possible application areas
+Homes and offices, classrooms and laboratories, server and storage rooms, greenhouses and small
+farms, and warehouses.
